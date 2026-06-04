@@ -1,0 +1,16 @@
+[17-Aug-2025 01:02:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/class-wp-html-processor.php on line 143
+[17-Aug-2025 01:03:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/html5-named-character-references.php on line 38
+[17-Aug-2025 01:40:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/class-wp-html-processor.php:143
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/class-wp-html-processor.php on line 143
+[17-Aug-2025 01:41:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Token_Map" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/html5-named-character-references.php:38
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/html-api/html5-named-character-references.php on line 38

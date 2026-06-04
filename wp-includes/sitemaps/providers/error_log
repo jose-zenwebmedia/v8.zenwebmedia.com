@@ -1,0 +1,24 @@
+[17-Aug-2025 01:11:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[17-Aug-2025 01:11:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[17-Aug-2025 01:11:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[17-Aug-2025 01:57:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[17-Aug-2025 01:58:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[17-Aug-2025 01:58:27 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Sitemaps_Provider" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

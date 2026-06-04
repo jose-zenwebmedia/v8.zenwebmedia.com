@@ -1,0 +1,4 @@
+[17-Aug-2025 01:20:54 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Proxy" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Proxy/Http.php:24
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Proxy/Http.php on line 24

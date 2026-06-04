@@ -1,0 +1,36 @@
+[17-Aug-2025 01:13:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/comments.php on line 9
+[17-Aug-2025 01:13:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/embed-404.php on line 14
+[17-Aug-2025 01:13:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/embed-content.php on line 13
+[17-Aug-2025 01:13:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/embed.php on line 13
+[17-Aug-2025 01:13:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/footer-embed.php on line 18
+[17-Aug-2025 01:14:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/footer.php on line 9
+[17-Aug-2025 01:14:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/header-embed.php on line 19
+[17-Aug-2025 01:14:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/header.php on line 9
+[17-Aug-2025 01:14:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/theme-compat/sidebar.php on line 9

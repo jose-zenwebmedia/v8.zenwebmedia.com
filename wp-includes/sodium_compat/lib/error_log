@@ -1,0 +1,8 @@
+[17-Aug-2025 01:11:32 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[17-Aug-2025 01:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/lib/ristretto255.php on line 6

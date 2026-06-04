@@ -1,0 +1,24 @@
+[17-Aug-2025 01:11:47 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Aug-2025 01:11:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Aug-2025 01:12:12 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/File.php on line 4
+[17-Aug-2025 01:59:22 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Compat" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Compat.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Compat.php on line 4
+[17-Aug-2025 02:03:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Crypto" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Crypto.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/Crypto.php on line 4
+[17-Aug-2025 02:03:23 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_File" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/File.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/namespaced/File.php on line 4

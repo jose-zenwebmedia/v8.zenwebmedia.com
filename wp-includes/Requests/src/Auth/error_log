@@ -1,0 +1,4 @@
+[17-Aug-2025 01:18:26 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Auth" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Auth/Basic.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Auth/Basic.php on line 23

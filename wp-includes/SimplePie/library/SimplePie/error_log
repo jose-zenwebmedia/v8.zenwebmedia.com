@@ -1,0 +1,4 @@
+[17-Aug-2025 01:22:36 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/library/SimplePie/Core.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/library/SimplePie/Core.php on line 54

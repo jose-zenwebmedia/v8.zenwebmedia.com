@@ -1,0 +1,36 @@
+[17-Aug-2025 01:23:24 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/BaseDataCache.php:56
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/BaseDataCache.php on line 56
+[17-Aug-2025 01:23:29 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\NameFilter" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/CallableNameFilter.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/CallableNameFilter.php on line 52
+[17-Aug-2025 01:23:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/DB.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/DB.php on line 54
+[17-Aug-2025 01:24:23 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/File.php:54
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/File.php on line 54
+[17-Aug-2025 01:24:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Memcache.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Memcache.php on line 63
+[17-Aug-2025 01:24:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Memcached.php:64
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Memcached.php on line 64
+[17-Aug-2025 01:24:37 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie\Cache\DB" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/MySQL.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/MySQL.php on line 60
+[17-Aug-2025 01:25:11 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\DataCache" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Psr16.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Psr16.php on line 57
+[17-Aug-2025 01:25:19 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\Cache\Base" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Redis.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Cache/Redis.php on line 63

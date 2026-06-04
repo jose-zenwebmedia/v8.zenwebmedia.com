@@ -1,0 +1,49 @@
+[17-Aug-2025 02:08:18 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/ChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/ChaCha20.php on line 10
+[17-Aug-2025 02:08:41 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[17-Aug-2025 02:08:46 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519_H" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Curve25519.php:16
+Stack trace:
+#0 /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Ed25519.php(7): require_once()
+#1 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Curve25519.php on line 16
+[17-Aug-2025 02:08:52 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_ChaCha20" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/HChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/HChaCha20.php on line 10
+[17-Aug-2025 02:09:05 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Salsa20" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/HSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/HSalsa20.php on line 10
+[17-Aug-2025 02:09:35 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Poly1305.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Poly1305.php on line 10
+[17-Aug-2025 02:09:59 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Salsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Salsa20.php on line 10
+[17-Aug-2025 02:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/SipHash.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/SipHash.php on line 12
+[17-Aug-2025 02:10:48 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Util.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/Util.php on line 10
+[17-Aug-2025 02:10:53 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_Curve25519" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/X25519.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/X25519.php on line 10
+[17-Aug-2025 02:11:03 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HChaCha20" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/XChaCha20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/XChaCha20.php on line 10
+[17-Aug-2025 02:11:21 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core32_HSalsa20" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/XSalsa20.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/Core32/XSalsa20.php on line 10

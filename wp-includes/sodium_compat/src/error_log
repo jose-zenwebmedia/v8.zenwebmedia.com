@@ -1,0 +1,8 @@
+[17-Aug-2025 01:12:39 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/File.php on line 9
+[17-Aug-2025 02:12:33 UTC] PHP Fatal error:  Uncaught Error: Class "ParagonIE_Sodium_Core_Util" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/File.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/sodium_compat/src/File.php on line 9

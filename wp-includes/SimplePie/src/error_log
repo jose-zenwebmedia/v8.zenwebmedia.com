@@ -1,0 +1,48 @@
+[17-Aug-2025 00:42:26 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Core.php on line 53
+[17-Aug-2025 00:42:48 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Item.php on line 57
+[17-Aug-2025 00:43:14 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Locator.php on line 55
+[17-Aug-2025 00:43:31 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Parser.php on line 58
+[17-Aug-2025 00:43:42 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Sanitize.php on line 63
+[17-Aug-2025 00:43:59 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Source.php on line 57
+[17-Aug-2025 01:25:56 UTC] PHP Fatal error:  Uncaught Error: Class "SimplePie" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Core.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Core.php on line 53
+[17-Aug-2025 01:26:28 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Item.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Item.php on line 57
+[17-Aug-2025 01:27:00 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Locator.php:55
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Locator.php on line 55
+[17-Aug-2025 01:27:07 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Parser.php:58
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Parser.php on line 58
+[17-Aug-2025 01:27:25 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Sanitize.php:63
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Sanitize.php on line 63
+[17-Aug-2025 01:27:47 UTC] PHP Fatal error:  Uncaught Error: Interface "SimplePie\RegistryAware" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Source.php:57
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/SimplePie/src/Source.php on line 57

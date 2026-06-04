@@ -1,0 +1,8 @@
+[17-Aug-2025 01:21:42 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Transport/Curl.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Transport/Curl.php on line 25
+[17-Aug-2025 01:21:54 UTC] PHP Fatal error:  Uncaught Error: Interface "WpOrg\Requests\Transport" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Transport/Fsockopen.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Transport/Fsockopen.php on line 25

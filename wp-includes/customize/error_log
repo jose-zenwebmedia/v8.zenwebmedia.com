@@ -1,0 +1,272 @@
+[17-Aug-2025 00:56:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[17-Aug-2025 00:56:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[17-Aug-2025 00:56:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[17-Aug-2025 00:56:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[17-Aug-2025 00:56:52 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[17-Aug-2025 00:56:54 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[17-Aug-2025 00:57:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[17-Aug-2025 00:57:42 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[17-Aug-2025 00:57:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[17-Aug-2025 00:58:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[17-Aug-2025 00:58:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[17-Aug-2025 00:58:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[17-Aug-2025 00:58:43 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[17-Aug-2025 00:58:59 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[17-Aug-2025 00:59:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[17-Aug-2025 00:59:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[17-Aug-2025 00:59:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[17-Aug-2025 00:59:44 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[17-Aug-2025 00:59:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[17-Aug-2025 00:59:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[17-Aug-2025 01:00:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[17-Aug-2025 01:00:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[17-Aug-2025 01:00:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[17-Aug-2025 01:00:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[17-Aug-2025 01:00:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[17-Aug-2025 01:00:51 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[17-Aug-2025 01:00:57 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[17-Aug-2025 01:01:03 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[17-Aug-2025 01:01:16 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[17-Aug-2025 01:01:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[17-Aug-2025 01:01:33 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[17-Aug-2025 01:01:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[17-Aug-2025 01:01:48 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[17-Aug-2025 01:01:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17
+[17-Aug-2025 01:28:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-control.php on line 17
+[17-Aug-2025 01:28:18 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-setting.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-image-setting.php on line 17
+[17-Aug-2025 01:28:23 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-position-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-background-position-control.php on line 17
+[17-Aug-2025 01:28:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-code-editor-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-code-editor-control.php on line 17
+[17-Aug-2025 01:28:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-color-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-color-control.php on line 17
+[17-Aug-2025 01:28:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-cropped-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-cropped-image-control.php on line 17
+[17-Aug-2025 01:28:56 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-custom-css-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-custom-css-setting.php on line 19
+[17-Aug-2025 01:29:07 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-date-time-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-date-time-control.php on line 17
+[17-Aug-2025 01:29:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-filter-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-filter-setting.php on line 19
+[17-Aug-2025 01:29:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-control.php on line 17
+[17-Aug-2025 01:29:36 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-setting.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-header-image-setting.php on line 19
+[17-Aug-2025 01:29:50 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Upload_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-image-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-image-control.php on line 17
+[17-Aug-2025 01:29:55 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-media-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-media-control.php on line 17
+[17-Aug-2025 01:30:01 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-auto-add-control.php on line 17
+[17-Aug-2025 01:30:06 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-control.php on line 17
+[17-Aug-2025 01:30:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-control.php on line 17
+[17-Aug-2025 01:30:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 20
+[17-Aug-2025 01:30:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-location-control.php on line 19
+[17-Aug-2025 01:31:02 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-locations-control.php on line 17
+[17-Aug-2025 01:31:11 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-name-control.php on line 17
+[17-Aug-2025 01:31:15 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-section.php on line 19
+[17-Aug-2025 01:31:20 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Setting" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menu-setting.php on line 21
+[17-Aug-2025 01:31:30 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-nav-menus-panel.php on line 19
+[17-Aug-2025 01:31:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-control.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-control.php on line 11
+[17-Aug-2025 01:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-section.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-new-menu-section.php on line 11
+[17-Aug-2025 01:32:12 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-sidebar-section.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-sidebar-section.php on line 17
+[17-Aug-2025 01:32:19 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Cropped_Image_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-site-icon-control.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-site-icon-control.php on line 19
+[17-Aug-2025 01:32:21 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-theme-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-theme-control.php on line 17
+[17-Aug-2025 01:33:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Panel" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-panel.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-panel.php on line 17
+[17-Aug-2025 01:33:35 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Section" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-section.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-themes-section.php on line 19
+[17-Aug-2025 01:33:40 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Media_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-upload-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-customize-upload-control.php on line 17
+[17-Aug-2025 01:33:47 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-sidebar-block-editor-control.php on line 18
+[17-Aug-2025 01:33:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-area-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-area-customize-control.php on line 17
+[17-Aug-2025 01:34:09 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Customize_Control" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-form-customize-control.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/customize/class-wp-widget-form-customize-control.php on line 17

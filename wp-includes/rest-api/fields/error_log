@@ -1,0 +1,32 @@
+[17-Aug-2025 01:10:25 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[17-Aug-2025 01:10:29 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[17-Aug-2025 01:10:41 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[17-Aug-2025 01:10:45 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[17-Aug-2025 01:54:53 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[17-Aug-2025 01:54:58 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[17-Aug-2025 01:55:05 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[17-Aug-2025 01:55:24 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Meta_Fields" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

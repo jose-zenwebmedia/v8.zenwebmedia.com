@@ -1,0 +1,31 @@
+{
+    "version": 3,
+    "$schema": "https://schemas.wp.org/wp/6.8/theme.json",
+    "settings": {
+        "colors": {
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#D4AF37",
+                    "name": "Primary"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#F4E4BC",
+                    "name": "Secondary"
+                },
+                {
+                    "slug": "background",
+                    "color": "#ffffff",
+                    "name": "Background"
+                },
+                {
+                    "slug": "text",
+                    "color": "#333333",
+                    "name": "Text"
+                }
+            ]
+        }
+    }
+}
+

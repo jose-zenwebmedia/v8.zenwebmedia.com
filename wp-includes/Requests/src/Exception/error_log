@@ -1,0 +1,12 @@
+[17-Aug-2025 01:19:39 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Exception/ArgumentCount.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Exception/ArgumentCount.php on line 20
+[17-Aug-2025 01:19:41 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Exception/Http.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Exception/Http.php on line 18
+[17-Aug-2025 01:19:49 UTC] PHP Fatal error:  Uncaught Error: Class "WpOrg\Requests\Exception" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Exception/Transport.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/Requests/src/Exception/Transport.php on line 17

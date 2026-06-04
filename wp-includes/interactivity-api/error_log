@@ -1,0 +1,4 @@
+[17-Aug-2025 01:03:37 UTC] PHP Fatal error:  Uncaught Error: Class "WP_HTML_Tag_Processor" not found in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/zenweb/public_html/v5.zenwebmedia.com/wp-includes/interactivity-api/class-wp-interactivity-api-directives-processor.php on line 18
