@@ -1,0 +1,6 @@
+.entry-hero.page-hero-section .entry-header{min-height:0!important}
+.entry-hero.page-hero-section .entry-hero-container-inner{padding-top:1rem!important;padding-bottom:1rem!important}
+.site-main-header-inner-wrap{min-height:56px!important}
+.content-area{margin-top:2rem!important;margin-bottom:2rem!important}
+.entry-content-wrap{padding:1.25rem!important}
+@media(max-width:767px){.entry-hero.page-hero-section .entry-hero-container-inner{padding-top:.75rem!important;padding-bottom:.75rem!important}.content-area{margin-top:1.25rem!important}.entry-content-wrap{padding:1rem!important}}
